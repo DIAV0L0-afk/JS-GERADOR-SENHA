@@ -1,1 +1,1 @@
-# JS-GERADOR-SENHA
+# js-gerador-senha
